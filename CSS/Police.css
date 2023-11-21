@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Lato:ital,wght@0,400;0,700;1,400&family=Raleway&family=Roboto:wght@400;700&display=swap');
+
+@font-face {
+    font-family: "Raleway";
+    src: url(../assets/Raleway-Bold.otf);
+    src: url(../assets/Raleway-Bold.ttf);
+    src: url(../assets/Raleway-Bold.woff);
+    src: url(../assets/Raleway-Italic.otf);
+    src: url(../assets/Raleway-Italic.ttf);
+    src: url(../assets/Raleway-Italic.woff);
+    src: url(../assets/Raleway-Regular.otf);
+    src: url(../assets/Raleway-Regular.ttf);
+    src: url(../assets/Raleway-Regular.woff);
+}
