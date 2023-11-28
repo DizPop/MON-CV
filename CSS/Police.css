@@ -11,3 +11,21 @@
     src: url(../assets/Raleway-Regular.ttf);
     src: url(../assets/Raleway-Regular.woff);
 }
+h1{
+    font-family: Lato;
+}
+h2{
+    font-family: Lato
+}
+h3{
+    font-family: Lato
+}
+h4{
+    font-family: Lato
+}
+section{
+   font-family: Raleway, sans-serif;
+}
+footer{
+    font-family: Raleway, sans-serif;
+}

@@ -1,14 +1,13 @@
 body {
     width: 1160px;
     margin: 0 auto; 
-    border-right: 3px, black;
+    border-right-style: solid ;
+    border-right: 1px, black;
   }
 header{
     background-color: #782221;
     color: white;
     text-align: center;
-    font-family: LATO, sans-serif; 
-    font-style: normal;
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -40,6 +39,7 @@ main {
 }
 
 .MOI {
+    text-indent: 30px;
     padding-right: 30px;
     background-color: #782221;
     color: white;
@@ -50,6 +50,45 @@ main {
     flex: 1;
     margin-left: 40px;
 }
-footer{
+.edit{
+    border-width: 7px;
+    border-left-style: solid;
+    border-color: #782221;
+    
+}
+footer {
     background-color: #782221;
+    color: white;
+    text-align: center; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer a {
+    margin: 0 10px; 
+    display: inline-block; 
+}
+
+footer img {
+    width: 50px; 
+    height: 50px; 
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+}
+.map{
+    color: black;
+}
+.opac:hover{
+    opacity: 80%;
+}
+.Experiences:hover{
+    border-width: 3px;
+    border-right-style: solid;
+    border-color: #782221;
+
 }
