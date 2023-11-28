@@ -29,6 +29,7 @@ h3{
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    font-style: italic;
 }
 .middle{
     flex: 1;
